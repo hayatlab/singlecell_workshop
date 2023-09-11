@@ -7,6 +7,7 @@ QC<br>
 Batch-effect correction<br>
 Clustering<br>
 Automated annotation<br>
+Compositional changes<br>
 Downstream analyes<br>
 
 ## Spatial transcriptomics:
